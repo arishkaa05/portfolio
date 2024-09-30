@@ -1,0 +1,32 @@
+@keyframes skill-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes move-bg {
+  0% { background-position: 0 0; }
+  100% { background-position: 100% 100%; }
+}
+  
+@keyframes scroll-word {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+@keyframes scroll-study {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(calc(-100% - 20px));
+  }
+}
