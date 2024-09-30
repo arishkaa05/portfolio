@@ -23,7 +23,7 @@ export const Project: React.FC<{ project: ProjectProps, isEven: boolean }> = ({ 
         <>
           <div className={`'hover:rotate-3 cursor-pointer transition-transform duration-300 h-[300px] bg-no-repeat mb-3`}
             style={{
-              backgroundImage: `url(./../projects/${project.img})`,
+              backgroundImage: `url(./projects/${project.img})`,
               backgroundSize: "contain",
               backgroundPosition: "center"
             }}></div> 
@@ -34,7 +34,7 @@ export const Project: React.FC<{ project: ProjectProps, isEven: boolean }> = ({ 
           <Descriprion />
           <div className={`'hover:rotate-3 cursor-pointer transition-transform duration-300 h-[300px] bg-no-repeat mb-3`}
             style={{
-              backgroundImage: `url(./../projects/${project.img})`,
+              backgroundImage: `url(./projects/${project.img})`,
               backgroundSize: "contain",
               backgroundPosition: "center"
             }}></div>

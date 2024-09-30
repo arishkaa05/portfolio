@@ -24,7 +24,7 @@ const Projects = () => {
     }
   ]
   return (
-    <div className='bg-neutral-200 overflow-hidden h-[100vh]] flex'>
+    <div className='bg-neutral-200 overflow-hidden h-[100vh] flex'>
       {window.innerWidth >= 768 && (<div className='border-r border-gray-500'>
         <TextMover word="PROJECTS" direction="vertical" />
       </div>

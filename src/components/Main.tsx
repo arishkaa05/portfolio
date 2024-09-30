@@ -4,7 +4,7 @@ import Skils from './Skils';
 const Main = () => {
   return (
     <div className='w-[calc(100vw-72px)] h-[100vh] bg-zinc-800 bg-no-repeat	bg-cover p-8' style={{
-      backgroundImage: "url('./../fog.webp')",
+      backgroundImage: "url('./fog.webp')",
       animation: "move-bg 20s linear infinite"
     }}>
       <section className='sm:flex justify-between'>
