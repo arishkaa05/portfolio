@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.07c184a0.css",
+    "main.js": "/portfolio/static/js/main.f960c35f.js",
+    "static/media/Whisper-Regular.ttf": "/portfolio/static/media/Whisper-Regular.a390ff4ecbd194017f0c.ttf",
+    "static/media/Moret-Regular.woff": "/portfolio/static/media/Moret-Regular.f33cc64a4e6005c78eb0.woff",
+    "index.html": "/portfolio/index.html",
+    "main.07c184a0.css.map": "/portfolio/static/css/main.07c184a0.css.map",
+    "main.f960c35f.js.map": "/portfolio/static/js/main.f960c35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c184a0.css",
+    "static/js/main.f960c35f.js"
+  ]
+}
